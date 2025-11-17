@@ -1,2 +1,2 @@
 # rep-01
-nothing
+nothing will be easy
